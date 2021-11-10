@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "arreglotabular", "arreglotabular.pyproj", "{660E761A-1677-4A0A-AC5E-0A55E01B9A11}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{660E761A-1677-4A0A-AC5E-0A55E01B9A11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{660E761A-1677-4A0A-AC5E-0A55E01B9A11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4D04E43E-9780-4DF0-A088-A26355B9247F}
+	EndGlobalSection
+EndGlobal
